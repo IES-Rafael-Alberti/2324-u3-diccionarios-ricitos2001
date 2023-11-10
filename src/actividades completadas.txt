@@ -1,0 +1,19 @@
+ACTIVIDADES COMPLETADAS
+actividad1.py
+actividad2.py
+actividad3.py
+actividad4.py
+actividad5.py
+actividad6.py (TIENE ERRORES, TIENE ERRORRES)
+actividad7.py (TIENE ERRORES, SIN DEFINICIONES)
+actividad8.py (SIN DEFINICIONES)
+actividad9.py (SIN DEFINICIONES)
+actividad10.py (TIENE ERRORES, SIN DEFINICIONES)
+actividad11.py
+TEST COMPLETADOS
+test_actividad1.py
+test_actividad2.py
+test_actividad3.py
+test_actividad4.py
+test_actividad5.py
+test_actividad11.py
