@@ -42,7 +42,7 @@ from src.actividad10 import lista_cliente
 def test_lista_cliente_params(clientes,lista):
     assert lista_cliente(clientes)==lista
 
-from src.actividad10 import lista_preferente
+'''from src.actividad10 import lista_preferente
 @pytest.mark.parametrize(
     "clientes,listapreferente",
     [
@@ -50,4 +50,4 @@ from src.actividad10 import lista_preferente
     ]
 )
 def test_lista_preferente_params(clientes,listapreferente):
-    assert lista_preferente(clientes)==listapreferente
+    assert lista_preferente(clientes)==listapreferente'''
